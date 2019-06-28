@@ -1,6 +1,11 @@
 # jzIntv_on_RetroPie
 Information on how to use jzIntv on RetroPie, plus a library of keyboard hack files
 
+Several keyboard hack files also add funtionality not normally present when using the original hardware.  Specifically:
+  * The ability to run and shoot simultaneously.  Supported games include:  AD&D Cloudy Mountain, Microsurgeon, Ms.   Nightstalker, Nightstalker, TRON Deadly Discs, TRON Deadly Dogs
+  * True four controller support for several four player games that require players to share two controllers.  Supported games include: Beamrider, Bowling, Golf, Mountain Madness Super Pro Skiing, Skiing
+  * Single controller support for game normally requiring multiple controllers for single player play.  Supported games includes: Dracula (control Dracula with left analog and control Zombie with right analog)
+
 Updating jzIntv
 
 Download a newer version of jzIntv from here => http://spatula-city.org/~im14u2c/intv/.  Root user
