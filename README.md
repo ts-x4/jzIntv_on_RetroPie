@@ -36,10 +36,10 @@ Master Control File
 
 If you're new to Intellivision, here are a few very subjective lists of games to start with...
 
-<u>Original Games:</u> AD&D Cloudy Mountain, AD&D Treasure of Tarmin, Astrosmash, Atlantis, Beauty and the Beast, Beamrider, Bump 'N' Jump, Burgertime, Demon Attack, Dig Dug, Diner, Lady Bug, Las Vegas Poker & Blackjack, Lock 'N' Chase, Loco-Motion, Microsurgeon, Mind Strike, Mountain Madness Super Pro Skiing, Mouse Trap, Nightstalker, Pinball, Qbert, Reversi, River Raid, Shark! Shark!, Sharp Shot, Snafu, Space Battle?, Stampede, Swords and Serpents, Thin Ice, Thunder Castle, Tower of Doom, TRON Deadly Discs, Ultimate Pong, Utopia, Vectron, World Championship Baseball, Worm Whomper.
+**Original Games:** AD&D Cloudy Mountain, AD&D Treasure of Tarmin, Astrosmash, Atlantis, Beauty and the Beast, Beamrider, Bump 'N' Jump, Burgertime, Demon Attack, Dig Dug, Diner, Lady Bug, Las Vegas Poker & Blackjack, Lock 'N' Chase, Loco-Motion, Microsurgeon, Mind Strike, Mountain Madness Super Pro Skiing, Mouse Trap, Nightstalker, Pinball, Qbert, Reversi, River Raid, Shark! Shark!, Sharp Shot, Snafu, Space Battle?, Stampede, Swords and Serpents, Thin Ice, Thunder Castle, Tower of Doom, TRON Deadly Discs, Ultimate Pong, Utopia, Vectron, World Championship Baseball, Worm Whomper.
 
-Some free homebrew games that are definitely worth trying: 2048, Christmas Carol, Dwarven Mine, Goatnom, iStar, Laser Sharks, MazezaM, Moon Blast, Shape Escape, Space Patrol, Space Versus, Stonix, Ultimate Pong, Upmonsters
+**Free Homebrew Games:** 2048, Christmas Carol, Dwarven Mine, Goatnom, iStar, Laser Sharks, MazezaM, Moon Blast, Shape Escape, Space Patrol, Space Versus, Stonix, Ultimate Pong, Upmonsters
 
-Excellent homebrew games that are available for purchase elsewhere: Burgertime Super Chef, D2K, MS, Ms. Nightstalker, Mystic Castle, Same Game & Robots
+**Paid Homebrew Games:** Burgertime Super Chef, D2K, MS, Ms. Nightstalker, Mystic Castle, Same Game & Robots
 
 In addition, this is a really useful site for in-depth reviews of Intellivision (and many other classic systems) => https://videogamecritic.com/intel.htm?ex=1 
