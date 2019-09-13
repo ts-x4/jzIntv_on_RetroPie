@@ -50,4 +50,4 @@ Master Control File
 ## Other Notes
 
 * For in-depth reviews of Intellivision games (and those for many other classic systems) check out https://videogamecritic.com/intel.htm?ex=1.
-* Many of the original games can be legally acquired by purchasing a copy of the PC version of Intellivison Lives!, Intellivision Rocks, and/or Intellivision Greatest Hits (10 or 25 game version). Add a little DOS magic and you'll be good to go.
+* Many of the original games can be legally acquired by purchasing a copy of the PC version of Intellivison Lives!, Intellivision Rocks, and/or Intellivision Greatest Hits (10 or 25 game version). Add a little DOS magic and you're good to go.
