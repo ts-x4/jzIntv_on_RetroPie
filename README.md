@@ -37,7 +37,7 @@ To modify hotkeys to match
 
 Master Control File
 
-## Some Other Extras
+## Other Extras
 
 ## If you're new to Intellivision, here are some games to start with...
 
@@ -47,7 +47,7 @@ Master Control File
 
 **Paid Homebrew Games:**  Burgertime Super Chef, D2K, MS, Ms. Nightstalker, Mystic Castle, Same Game & Robots
 
-## A Few Other Notes
+## Other Notes
 
 * For in-depth reviews of Intellivision games (and those for many other classic systems) check out https://videogamecritic.com/intel.htm?ex=1.
-* Many of the original games can be acquired by purchasing a copy of the PC version of Intellivison Lives!, Intellivision Rocks, and/or Intellivision Greatest Hits (10 or 25 game version). Add a little DOS magic and you'll be good to go.
+* Many of the original games can be legally acquired by purchasing a copy of the PC version of Intellivison Lives!, Intellivision Rocks, and/or Intellivision Greatest Hits (10 or 25 game version). Add a little DOS magic and you'll be good to go.
