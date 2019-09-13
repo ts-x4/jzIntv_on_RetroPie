@@ -34,12 +34,12 @@ https://www.retronicdesign.com/en/configuring-a-raspberry-pi-as-an-intellivision
 
 Master Control File
 
-For those new to Intellivision, here's a very subjective lists of games to start with...
+If you're new to Intellivision, here's a very subjective lists of original games to start with...
 
-AD&D Cloudy Mountain, AD&D Treasure of Tarmin, Astrosmash, Atlantis, Beauty and the Beast, Beamrider, Bump 'N' Jump, Burgertime, Burgertime Super Chef, Chip Shot Golf?, Christmas Carol, D2K, Demon Attack, Dig Dug, Diner, Lady Bug, Las Vegas Poker & Blackjack, Lock 'N' Chase, Loco-Motion, Microsurgeon, Mind Strike, Mountain Madness Super Pro Skiing?, Mouse Trap, MS, Ms. Nightstalker, Mystic Castle, Nightstalker, Pinball, Qbert, Reversi, River Raid, Same Game & Robots, Shark! Shark!, Sharp Shot, Snafu, Space Battle?, Space Patrol, Stampede, Stonix, Swords and Serpents, Thin Ice, Thunder Castle, Tower of Doom, TRON Deadly Discs, Ultimate Pong, Utopia, Vectron, World Championship Baseball, Worm Whomper.
+AD&D Cloudy Mountain, AD&D Treasure of Tarmin, Astrosmash, Atlantis, Beauty and the Beast, Beamrider, Bump 'N' Jump, Burgertime, Demon Attack, Dig Dug, Diner, Lady Bug, Las Vegas Poker & Blackjack, Lock 'N' Chase, Loco-Motion, Microsurgeon, Mind Strike, Mountain Madness Super Pro Skiing, Mouse Trap, Nightstalker, Pinball, Qbert, Reversi, River Raid, Shark! Shark!, Sharp Shot, Snafu, Space Battle?, Stampede, Swords and Serpents, Thin Ice, Thunder Castle, Tower of Doom, TRON Deadly Discs, Ultimate Pong, Utopia, Vectron, World Championship Baseball, Worm Whomper.
 
-In addition, this is a great site for in-depth reviews of Intellivision (and many other classic systems) => https://videogamecritic.com/intel.htm?ex=1
+Some free homebrew games that are definitely worth trying: 2048, Christmas Carol, Dwarven Mine, Goatnom, iStar, Laser Sharks, MazezaM, Moon Blast, Shape Escape, Space Patrol, Space Versus, Stonix, Ultimate Pong, Upmonsters
 
-Interesting Homebrews
+Excellent homebrew games that are available for purchase elsewhere: Burgertime Super Chef, D2K, MS, Ms. Nightstalker, Mystic Castle, Same Game & Robots
 
-4-tris, 2048, Dwarven Mine, Goatnom, Grail of the Gods, iStar, MazezaM, Shape Escape, Space Versus, Upmonsters, Zombie Marbles 
+In addition, this is a really useful site for in-depth reviews of Intellivision (and many other classic systems) => https://videogamecritic.com/intel.htm?ex=1 
