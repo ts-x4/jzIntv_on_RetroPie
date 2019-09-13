@@ -6,7 +6,7 @@ Note that the files contained in this repository have been tested using the 2018
 
 ## Keyboard Hackfiles (.kbd)
 
-Each of the .kbd files here was created based on my interpretation as to how best control the games using a modern controller. They were built for an Xbox 360 controller but can be easily modified to accomodate other similiar controllers. Many games can be mapped to controllers with fewer buttons, but there are a number that will require signficant modification to the .kbd files to do so. Most mappings are fairly well documented, so if you're using other controllers or are not so sure about my approach, then please feel free to change to your liking :smiley:
+Each of the .kbd files here was created based on my interpretation as to how best control the games using a modern controller. They were built for an Xbox 360 controller but can be easily modified to accomodate other similiar controllers. Many games can be mapped to controllers with fewer buttons, but there are a number that will require signficant modification to the .kbd files to do so. Most mappings are fairly well documented, so if you're using other controllers or are not so sure about my approach, then please feel free to change to your liking!
 
 Note that several keyboard hack files also add funtionality not normally present when using the original hardware.  Specifically:
   * *The ability to run and shoot simultaneously.*  Supported games include:  AD&D Cloudy Mountain, Microsurgeon, Ms.   Nightstalker, Nightstalker, TRON Deadly Discs, TRON Deadly Dogs.
@@ -29,11 +29,7 @@ Resolution Settings
 
 Notes on Keyboard Hackfiles
 
-Designed for use with an Xbox 360 controller with a modified hotkey layout
-
 See Master Control File for recommended sensitivity settings for various games
-
-To modify hotkeys to match
 
 Master Control File
 
