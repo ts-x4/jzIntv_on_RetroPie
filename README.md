@@ -1,5 +1,7 @@
 # jzIntv_on_RetroPie
-Information on how to use jzIntv on RetroPie, plus a library of keyboard hack files
+Having grown up with Intellivision, it was a system that I spent quite a bit of time building and customizing on RetroPie. There are several helpful setup guides for jzIntv elsewhere ([here](
+https://www.reddit.com/r/intellivision/comments/4etfy4/howto_use_jzintv_emulator_the_easy_way/) and [here](https://www.retronicdesign.com/en/configuring-a-raspberry-pi-as-an-intellivision-retro-gaming-console/) are good examples), but I discovered a number of other advanced settings along the way that I thought might be helpful to others. In addition, I decided to build game specific keyboard hack files that map the Intellivision's 16-button inputs to an Xbox360 controller. The repository contains all of those files plus any other configuration files necessary to get jzIntv up and running on RetroPie relatively quickly.
+
 
 Several keyboard hack files also add funtionality not normally present when using the original hardware.  Specifically:
   * The ability to run and shoot simultaneously.  Supported games include:  AD&D Cloudy Mountain, Microsurgeon, Ms.   Nightstalker, Nightstalker, TRON Deadly Discs, TRON Deadly Dogs
@@ -27,19 +29,14 @@ See Master Control File for recommended sensitivity settings for various games
 
 To modify hotkeys to match
 
-Advanced kdb options
-
-https://www.reddit.com/r/intellivision/comments/4etfy4/howto_use_jzintv_emulator_the_easy_way/
-https://www.retronicdesign.com/en/configuring-a-raspberry-pi-as-an-intellivision-retro-gaming-console/
-
 Master Control File
 
-If you're new to Intellivision, here are a few very subjective lists of games to start with...
+######If you're new to Intellivision, here are a few very subjective lists of games to start with...
 
-**Original Games:** AD&D Cloudy Mountain, AD&D Treasure of Tarmin, Astrosmash, Atlantis, Beauty and the Beast, Beamrider, Bump 'N' Jump, Burgertime, Demon Attack, Dig Dug, Diner, Lady Bug, Las Vegas Poker & Blackjack, Lock 'N' Chase, Loco-Motion, Microsurgeon, Mind Strike, Mountain Madness Super Pro Skiing, Mouse Trap, Nightstalker, Pinball, Qbert, Reversi, River Raid, Shark! Shark!, Sharp Shot, Snafu, Space Battle?, Stampede, Swords and Serpents, Thin Ice, Thunder Castle, Tower of Doom, TRON Deadly Discs, Ultimate Pong, Utopia, Vectron, World Championship Baseball, Worm Whomper.
+**Original Games:**  AD&D Cloudy Mountain, AD&D Treasure of Tarmin, Astrosmash, Atlantis, Beauty and the Beast, Beamrider, Bump 'N' Jump, Burgertime, Demon Attack, Dig Dug, Diner, Lady Bug, Las Vegas Poker & Blackjack, Lock 'N' Chase, Loco-Motion, Microsurgeon, Mind Strike, Mountain Madness Super Pro Skiing, Mouse Trap, Nightstalker, Pinball, Qbert, Reversi, River Raid, Shark! Shark!, Sharp Shot, Snafu, Space Battle?, Stampede, Swords and Serpents, Thin Ice, Thunder Castle, Tower of Doom, TRON Deadly Discs, Ultimate Pong, Utopia, Vectron, World Championship Baseball, Worm Whomper.
 
-**Free Homebrew Games:** 2048, Christmas Carol, Dwarven Mine, Goatnom, iStar, Laser Sharks, MazezaM, Moon Blast, Shape Escape, Space Patrol, Space Versus, Stonix, Ultimate Pong, Upmonsters
+**Free Homebrew Games:**  2048, Christmas Carol, Dwarven Mine, Goatnom, iStar, Laser Sharks, MazezaM, Moon Blast, Shape Escape, Space Patrol, Space Versus, Stonix, Ultimate Pong, Upmonsters
 
-**Paid Homebrew Games:** Burgertime Super Chef, D2K, MS, Ms. Nightstalker, Mystic Castle, Same Game & Robots
+**Paid Homebrew Games:**  Burgertime Super Chef, D2K, MS, Ms. Nightstalker, Mystic Castle, Same Game & Robots
 
 In addition, this is a really useful site for in-depth reviews of Intellivision (and many other classic systems) => https://videogamecritic.com/intel.htm?ex=1 
