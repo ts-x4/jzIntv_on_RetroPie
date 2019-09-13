@@ -31,9 +31,9 @@ To modify hotkeys to match
 
 Master Control File
 
-######If you're new to Intellivision, here are a few very subjective lists of games to start with...
+## If you're new to Intellivision, here are some subjective lists of games to start with
 
-**Original Games:**  AD&D Cloudy Mountain, AD&D Treasure of Tarmin, Astrosmash, Atlantis, Beauty and the Beast, Beamrider, Bump 'N' Jump, Burgertime, Demon Attack, Dig Dug, Diner, Lady Bug, Las Vegas Poker & Blackjack, Lock 'N' Chase, Loco-Motion, Microsurgeon, Mind Strike, Mountain Madness Super Pro Skiing, Mouse Trap, Nightstalker, Pinball, Qbert, Reversi, River Raid, Shark! Shark!, Sharp Shot, Snafu, Space Battle?, Stampede, Swords and Serpents, Thin Ice, Thunder Castle, Tower of Doom, TRON Deadly Discs, Ultimate Pong, Utopia, Vectron, World Championship Baseball, Worm Whomper.
+**Original Games:**  AD&D Cloudy Mountain, AD&D Treasure of Tarmin, Astrosmash, Atlantis, Beauty and the Beast, Beamrider, Bump 'N' Jump, Burgertime, Demon Attack, Dig Dug, Diner, Lady Bug, Las Vegas Poker & Blackjack, Lock 'N' Chase, Loco-Motion, Microsurgeon, Mind Strike, Mountain Madness Super Pro Skiing, Mouse Trap, Nightstalker, Pinball, Qbert, Reversi, River Raid, Shark! Shark!, Sharp Shot, Snafu, Space Battle?, Stampede, Swords and Serpents, Thin Ice, Thunder Castle, Tower of Doom, TRON Deadly Discs, Utopia, Vectron, World Championship Baseball, Worm Whomper.
 
 **Free Homebrew Games:**  2048, Christmas Carol, Dwarven Mine, Goatnom, iStar, Laser Sharks, MazezaM, Moon Blast, Shape Escape, Space Patrol, Space Versus, Stonix, Ultimate Pong, Upmonsters
 
