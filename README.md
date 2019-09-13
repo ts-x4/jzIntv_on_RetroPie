@@ -13,7 +13,7 @@ Note that several keyboard hack files also add funtionality not normally present
   * *True four controller support for four player games that normally require players to share two controllers.*  Supported games include: Beamrider, Bowling, Golf, Mountain Madness Super Pro Skiing, Skiing.
   * *Single controller support for games normally requiring multiple controllers for single player play.*  Supported games includes: Dracula (control Dracula with left analog and control Zombie with right analog).
 
-Also note that the .kbd files create RetroPie equivalent "hotkeys" in jzIntv. My hotkey setup differs from the standard RetroPie mappings (uses the "Guide" button as the hotkey and "RB" as exit). To bring hotkeys here in sync with the standard RetroPie mappings, for each .kbd file you'll need to do the following:
+Also note that the .kbd files create RetroPie equivalent "hotkeys" in jzIntv. My hotkey setup differs from the standard RetroPie mappings (use the "Guide" button as the hotkey, and "RB" as exit). To bring hotkeys here in sync with the standard RetroPie mappings, for each .kbd file you'll need to do the following...
 * Change "JS0_BTN_10 PSH3" to "JS0_BTN_10 NA" (for all joystick maps, the number pad map, and the hotkey map)
 * Change "JS0_BTN_08 NA" to "JS0_BTN_08 PSH3" (for all joystick maps)
 * Change "JS0_BTN_05 QUIT" in the hotkey map to "JS0_BTN_05 NA"
@@ -47,4 +47,7 @@ Master Control File
 
 **Paid Homebrew Games:**  Burgertime Super Chef, D2K, MS, Ms. Nightstalker, Mystic Castle, Same Game & Robots
 
-In addition, this is a really useful site for in-depth reviews of Intellivision (and many other classic systems) => https://videogamecritic.com/intel.htm?ex=1 
+## A Few Other Notes
+
+* For in-depth reviews of Intellivision games (and those for many other classic systems) check out https://videogamecritic.com/intel.htm?ex=1.
+* Many of the original games can be acquired by purchasing a copy of the PC version of Intellivison Lives!, Intellivision Rocks, and/or Intellivision Greatest Hits (10 or 25 game version). Add a little DOS magic and you'll be good to go.
