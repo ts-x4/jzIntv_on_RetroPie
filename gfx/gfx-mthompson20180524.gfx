@@ -1,0 +1,19 @@
+; mthompson at AA gfx palette 20180505
+; Primary Color Set
+#000000 ; 0 - Black
+#0000FF ; 1 - Blue
+#E40404 ; 2 - Red
+#BCC75E ; 3 - Tan
+#0F8223 ; 4 - Dark Green
+#04B640 ; 5 - Green
+#F6E806 ; 6 - Yellow
+#FFFBFF ; 7 - White
+; Pastel Color Set
+#95989B ; 8 - Grey
+#13D1D1 ; 9 - Cyan
+#E39401 ; 10 - Orange
+#355002 ; 11 - Brown
+#FF00A0 ; 12 - Pink
+#918FF5 ; 13 - Light Blue
+#27D305 ; 14 - Yellow-Green
+#8A229F ; 15 - Purple

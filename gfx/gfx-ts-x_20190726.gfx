@@ -1,0 +1,19 @@
+; ts-x gfx palette 20190405
+; Primary Color Set
+#000000 ; 0 - Black MT
+#0000FF ; 1 - Blue MT
+#E40404 ; 2 - Red MT
+#CECE94 ; 3 - Tan IMB
+#0F8223 ; 4 - Dark Green MT
+#04B640 ; 5 - Green MT
+#F6E806 ; 6 - Yellow MT
+#FFFBFF ; 7 - White MT
+; Pastel Color Set
+#A5ADA5 ; 8 - Grey IMB
+#51B7E5 ; 9 - Cyan IMB
+#EF9C00 ; 10 - Orange IMB
+#424A08 ; 11 - Brown IMB
+#FF3173 ; 12 - Pink IMB
+#A496FF ; 13 - Light Blue JZ20180509
+#09C433; 14 - Yellow-Green TSX
+#8A229F ; 15 - Purple MT

@@ -1,0 +1,19 @@
+; IMBerzerk at AA gfx palette 20190126
+; Primary Color Set
+#000000 ; 0 - Black
+#0021AD ; 1 - Blue
+#E03904 ; 2 - Red
+#CECE94 ; 3 - Tan
+#1E4912 ; 4 - Dark Green
+#01812E ; 5 - Green
+#F7E64A ; 6 - Yellow
+#FFFFFF ; 7 - White
+; Pastel Color Set
+#A5ADA5 ; 8 - Grey
+#51B7E5 ; 9 - Cyan
+#EF9C00 ; 10 - Orange
+#424A08 ; 11 - Brown
+#FF3173 ; 12 - Pink
+#9A8AEF ; 13 - Light Blue
+#4AA552 ; 14 - Yellow-Green
+#950457 ; 15 - Purple

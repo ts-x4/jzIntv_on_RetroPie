@@ -1,0 +1,19 @@
+; Default jzintv20180509 gfx palette
+; Primary Color Set
+#000000 ; 0 - Black
+#002DFF ; 1 - Blue
+#FF3D10 ; 2 - Red
+#C9CFAB ; 3 - Tan
+#386B3F ; 4 - Dark Green
+#00A756 ; 5 - Green
+#FAEA50 ; 6 - Yellow
+#FFFCFF ; 7 - White
+; Pastel Color Set
+#BDACC8 ; 8 - Grey
+#24B8FF ; 9 - Cyan
+#FFB41F ; 10 - Orange
+#546E00 ; 11 - Brown
+#FF4E57 ; 12 - Pink
+#A496FF ; 13 - Light Blue
+#75CC80 ; 14 - Yellow-Green
+#B51A58 ; 15 - Purple
