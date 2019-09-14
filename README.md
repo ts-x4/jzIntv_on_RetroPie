@@ -14,23 +14,21 @@ Note that several keyboard hack files also add funtionality not normally present
 
 Also note that these .kbd files create RetroPie equivalent "hotkeys" in jzIntv. My hotkey setup differs from the standard RetroPie mappings (use the "Guide" button as the hotkey, and "RB" as exit). To bring hotkeys here in sync with the standard RetroPie mappings, refer to the "Creating RetroArch Hotkey Equivalents" section under "Advanced Controller Mapping" [here](https://github.com/RetroPie/RetroPie-Setup/wiki/Mapping-a-Controller-for-Intellivision).
 
-See (COMING SOON) for recommended sensitivity settings for each invidual game.
-
 ## Configuration Files (.cfg)
 
-Save to `/home/pi/RetroPie/roms/intellivision`.
+Save to `/home/pi/RetroPie/roms/intellivision`.  These files are necessary to launch certain games files and must share the exact name of the file to which they relate.
 
 ## Custom Palette Files (.gfx)
 
-Save to `/home/pi/RetroPie/roms/intellivision`.
+Save to `/home/pi/RetroPie/roms/intellivision`.  The "gfx-default.gfx" file is a copy of "gfx-ts-x_20190726.gfx", which is what looks best on my 1080p Panasonic Plasma. Remove this flag entirely to use the jzIntv default palette. Other options are based on the very informative conversation [here](https://atariage.com/forums/topic/278354-gfx-palette-flag/).
 
 ## Launch Scripts (.sh)
 
-Save to `/home/pi/RetroPie/roms/intellivision`.
+Save to `/home/pi/RetroPie/roms/intellivision`. Each launch script includes run parameters best suited to a specific subset of Intellivision games. Launch scripts are assigned to games in the next section below.
 
 ## Runcommand Options (emulators.cfg)
 
-Specify Manually add to `/opt/retropie/configs/all/emulators.cfg`
+Add individual lines to `/opt/retropie/configs/all/emulators.cfg` as needed or manually add using the [Runcommand Launch Menu](https://github.com/RetroPie/RetroPie-Setup/wiki/runcommand) for each game.
 
 ## Other Extras
 
@@ -40,7 +38,7 @@ Specify Manually add to `/opt/retropie/configs/all/emulators.cfg`
 
 ## If you're new to Intellivision, here are some games to start with...
 
-**Original Games:**  AD&D Cloudy Mountain ("ADVNTURE"), AD&D Treasure of Tarmin ("Minotaur"), Astrosmash, Atlantis, Beauty and the Beast, Beamrider, Bump 'N' Jump, Burgertime, Demon Attack, Dig Dug, Diner, Lady Bug, Las Vegas Poker & Blackjack, Lock 'N' Chase, Loco-Motion, Microsurgeon, Mind Strike, Mountain Madness Super Pro Skiing ("SKIING2"), Mouse Trap, Nightstalker ("STALKER"), Pinball, Qbert, Reversi, River Raid, Shark! Shark! ("SHARK"), Sharp Shot, Snafu, Space Battle?, Stampede, Swords and Serpents, Thin Ice, Thunder Castle, Tower of Doom, TRON Deadly Discs, Utopia, Vectron, World Championship Baseball, Worm Whomper.
+**Original Games:**  AD&D Cloudy Mountain ("ADVNTURE"), AD&D Treasure of Tarmin ("Minotaur"), Astrosmash, Atlantis, Beauty and the Beast, Beamrider, Bump 'N' Jump, Burgertime, Demon Attack, Dig Dug, Diner, Lady Bug, Las Vegas Poker & Blackjack, Lock 'N' Chase, Loco-Motion, Microsurgeon, Mind Strike, Mountain Madness Super Pro Skiing ("SKIING2"), Mouse Trap, Nightstalker ("STALKER"), Pinball, Qbert, Reversi, River Raid, Shark! Shark! ("SHARK"), Sharp Shot, Snafu, Space Battle, Stampede, Swords and Serpents, Thin Ice, Thunder Castle, Tower of Doom, TRON Deadly Discs, Utopia, Vectron, World Championship Baseball, Worm Whomper.
 
 **Free Homebrew Games:**  2048, Christmas Carol, Dwarven Mine, Goatnom, iStar, Laser Sharks ("sharks"), MazezaM, Moon Blast ("laser"), Shape Escape, Space Patrol, Space Versus, Stonix, Ultimate Pong, Upmonsters
 
