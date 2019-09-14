@@ -1,9 +1,9 @@
 # jzIntv_on_RetroPie
 This repository contains customized jzIntv keyboard hack files that map the Intellivision's 16-button inputs to an Xbox 360 controller for a large portion of the Intellivision game library. In addition, it contains other related configuration files that should help you get jzIntv up and running on RetroPie relatively quickly.
 
-Note that the files contained in this repository have been tested using the 20180509 release of jzIntv, but I believe they will work with newer (and some older) releases as well.
+*Note that the files contained in this repository have been tested using the 20180509 release of jzIntv, but I believe they will work with newer (and some older) releases as well.*
 
-## Keyboard Hackfiles (.kbd)
+## Keyboard Hack Files (.kbd)
 
 Save to /home/pi/RetroPie/roms/intellivision.
 
@@ -14,7 +14,7 @@ Note that several keyboard hack files also add funtionality not normally present
   * *True four controller support for four player games that normally require players to share two controllers.*  Supported games include: Beamrider, Bowling, Golf, Mountain Madness Super Pro Skiing, Skiing.
   * *Single controller support for games normally requiring multiple controllers for single player play.*  Supported games includes: Dracula (control Dracula with left analog and control Zombie with right analog).
 
-Also note that these .kbd files create RetroPie equivalent "hotkeys" in jzIntv. My hotkey setup differs from the standard RetroPie mappings (use the "Guide" button as the hotkey, and "RB" as exit). To bring hotkeys here in sync with the standard RetroPie mappings, refer to the "Creating RetroArch Hotkey Equivalents" section under "Advanced Controller Mapping" [here](https://github.com/RetroPie/RetroPie-Setup/wiki/Mapping-a-Controller-for-Intellivision).
+Also note that these .kbd files create RetroPie equivalent "hotkeys" in jzIntv. My hotkey setup differs from the standard RetroPie mappings (uses the "Guide" button as the hotkey, and "RB" as exit). To bring hotkeys here in sync with the standard RetroPie mappings, refer to the "Creating RetroArch Hotkey Equivalents" section under "Advanced Controller Mapping" [here](https://github.com/RetroPie/RetroPie-Setup/wiki/Mapping-a-Controller-for-Intellivision).
 
 ## Configuration Files (.cfg)
 
@@ -22,7 +22,7 @@ Save to `/home/pi/RetroPie/roms/intellivision`.  These files are necessary to la
 
 ## Custom Palette Files (.gfx)
 
-Save to `/home/pi/RetroPie/roms/intellivision`.  The "gfx-default.gfx" file is a copy of "gfx-ts-x_20190726.gfx", which is what looks best on my 1080p Panasonic Plasma. Remove this flag entirely to use the jzIntv default palette. Other options are based on the very informative conversation [here](https://atariage.com/forums/topic/278354-gfx-palette-flag/).
+Save to `/home/pi/RetroPie/roms/intellivision`.  The "gfx-default.gfx" file is a copy of "gfx-ts-x_20190726.gfx", which is what looks best on my 1080p Panasonic Plasma. Remove this flag entirely to use jzIntv's default palette. Other options are based on the very informative discussion [here](https://atariage.com/forums/topic/278354-gfx-palette-flag/).
 
 ## Launch Scripts (.sh)
 
@@ -30,7 +30,7 @@ Save to `/home/pi/RetroPie/roms/intellivision`. Each launch script includes run 
 
 ## Runcommand Options (emulators.cfg)
 
-Add individual lines to `/opt/retropie/configs/all/emulators.cfg` as needed or manually add using the [Runcommand Launch Menu](https://github.com/RetroPie/RetroPie-Setup/wiki/runcommand) for each game.
+Add individual lines to `/opt/retropie/configs/all/emulators.cfg` from this file as needed, or manually add using the [Runcommand Launch Menu](https://github.com/RetroPie/RetroPie-Setup/wiki/runcommand) for each game.
 
 ## Other Extras
 
