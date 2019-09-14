@@ -3,7 +3,9 @@ This repository contains game specific jzIntv keyboard hack files that map the I
 
 Note that the files contained in this repository have been tested using the 20180509 release of jzIntv, but I believe they will work with newer (and some older) releases as well.
 
-## Keyboard Hackfiles (.kbd, Save to /home/pi/RetroPie/roms/intellivision)
+## Keyboard Hackfiles (.kbd)
+
+Save to /home/pi/RetroPie/roms/intellivision).
 
 Each of the .kbd files here was created based on my interpretation as to how best control the games using a modern controller. They were built for an Xbox 360 controller but can be easily modified to accomodate other similiar controllers. Many games can be mapped to controllers with fewer buttons, but there are a number that will require signficant modification to the .kbd files to do so. Most mappings are fairly well documented, so if you're using other controllers or are not so sure about my approach, then please feel free to change to your liking!
 
