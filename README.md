@@ -1,5 +1,5 @@
 # jzIntv_on_RetroPie
-Having grown up with Intellivision, it was a system that I spent quite a bit of time building and customizing on my RetroPie. As part of that effort, I decided to build game specific keyboard hack files that map the Intellivision's 16-button inputs to an Xbox 360 controller for each individual game. This repository contains all of those files plus any other configuration files necessary to get jzIntv up and running on RetroPie relatively quickly.
+This repository contains game specific jzIntv keyboard hack files that map the Intellivision's 16-button inputs to an Xbox 360 controller for each individual game. In addition, it contains any other related configuration files necessary to get jzIntv up and running on RetroPie relatively quickly.
 
 Note that the files contained in this repository have been tested using the 20180509 release of jzIntv, but I believe they will work with newer (and some older) releases as well.
 
