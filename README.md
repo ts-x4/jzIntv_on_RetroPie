@@ -25,12 +25,16 @@ Save to `/home/pi/RetroPie/roms/intellivision`.  These files are necessary to la
 ## Launch Scripts (.sh)
 
 ###### Required
-Save to `/home/pi/RetroPie/roms/intellivision`. Each launch script includes run parameters best suited to a specific subset of Intellivision games. Launch scripts are assigned to games in the next section below.
+Save to `/home/pi/RetroPie/roms/intellivision`. Each launch script includes run parameters best suited to a specific subset of Intellivision games. Launch scripts are assigned to games in the section below.
 
 ## Runcommand Options (emulators.cfg)
 
 ###### Required
 Add individual lines to `/opt/retropie/configs/all/emulators.cfg` from this file as needed, or manually add using the [Runcommand Launch Menu](https://github.com/RetroPie/RetroPie-Setup/wiki/runcommand) for each game.
+
+Each game has been assigned to a specific launch script (.sh) based on on my testing with an Xbox 360 Controller. My goal was to map the Intellivision 16-button inputs in a way that made sense with modern controllers, present jzIntv with the appropriate input parameters, and allow it to capture analog joystick movements in the cleanest fashion by reducing dead-zone related drift.
+
+(WIP: game sensitivity, colors, names)
 
 ## Custom Palette Files (.gfx)
 
@@ -42,7 +46,7 @@ Save to `/home/pi/RetroPie/roms/intellivision`.  Without this flag, jzIntv will 
 params="$1"
 /opt/retropie/emulators/jzintv/bin/jzintv -p /home/pi/RetroPie/BIOS --gfx-palette=/home/pi/RetroPie/roms/intellivision/gfx-default.gfx --js0="ac,push=30,rels=25,4dir" --js1="ac,push=30,rels=25,4dir" --kbdhackfile="$params".kbd "$params" -z4 -f1 -q -v0 -s0</pre>
 
-The options here are based on my personal preference plus alternatives sourced from the very informative discussion [here](https://atariage.com/forums/topic/278354-gfx-palette-flag/). To enable a palette simply copy that palette file to `/home/pi/RetroPie/roms/intellivision` and rename it as "gfx-default.gfx". Note that the "gfx-ts-x_20190726.gfx" file is what looks best on my 1080p Panasonic Plasma in THX mode.
+The options here are based on my personal preference plus alternatives sourced from the very informative discussion [here](https://atariage.com/forums/topic/278354-gfx-palette-flag/). To enable a palette, simply copy that palette file to `/home/pi/RetroPie/roms/intellivision` and rename it as "gfx-default.gfx". Note that the "gfx-ts-x_20190726.gfx" file is what looks best on my 1080p Panasonic Plasma in THX mode.
 
 ## Other Extras
 
