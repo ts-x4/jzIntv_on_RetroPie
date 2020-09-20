@@ -32,7 +32,7 @@ Save to `/home/pi/RetroPie/roms/intellivision`. Each launch script includes run 
 ###### Required
 Add individual lines to `/opt/retropie/configs/all/emulators.cfg` from this file as needed, or manually add using the [Runcommand Launch Menu](https://github.com/RetroPie/RetroPie-Setup/wiki/runcommand) for each game.
 
-Each game has been assigned to a specific launch script (.sh) based on on my testing with an Xbox 360 Controller. My goal was to map the Intellivision 16-button inputs in a way that made sense with modern controllers, present jzIntv with the appropriate input parameters, and allow it to capture analog joystick movements in the cleanest fashion by reducing dead-zone related drift.
+Each game has been assigned to a specific launch script (.sh) based on on my testing with an Xbox 360 Controller. The goal was to map the Intellivision 16-button inputs in a way that made sense with modern controllers, present jzIntv with the appropriate input parameters, and allow it to capture analog joystick movements in the cleanest fashion by reducing dead-zone related drift.
 
 (WIP: game sensitivity, colors, names)
 
@@ -64,7 +64,7 @@ The options here are based on my personal preference plus alternatives sourced f
 
 **Free Homebrew Games:**  2048, Christmas Carol, Dwarven Mine, Goatnom, iStar, Laser Sharks ("sharks"), MazezaM, Moon Blast ("laser"), Shape Escape, Space Patrol, Space Versus, Stonix, Ultimate Pong, Upmonsters
 
-**Paid Homebrew Games:**  Burgertime Super Chef, D2K, MS, Ms. Night Stalker, Mystic Castle, Same Game & Robots
+**Paid Homebrew Games:**  Battlestar Galactica Space Battle, Burgertime Super Chef, D2K, MS, Ms. Night Stalker, Mystic Castle, Same Game & Robots
 
 ## Other Notes
 
