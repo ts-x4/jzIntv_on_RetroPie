@@ -64,7 +64,7 @@ The options here are based on my personal preference plus alternatives sourced f
 
 **Free Homebrew Games:**  2048, Christmas Carol, Dwarven Mine, Goatnom, iStar, Laser Sharks ("sharks"), MazezaM, Moon Blast ("laser"), Shape Escape, Space Patrol, Space Versus, Stonix, Ultimate Pong, Upmonsters
 
-**Paid Homebrew Games:**  Battlestar Galactica Space Battle, Burgertime Super Chef, D2K, MS, Ms. Night Stalker, Mystic Castle, Same Game & Robots
+**Paid Homebrew Games:**  Battlestar Galactica Space Battle, Burgertime Super Chef, D2K, Donkey Kong Junior, Ms. Pac-Man, Ms. Night Stalker, Mystic Castle, Same Game & Robots
 
 ## Other Notes
 
