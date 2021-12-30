@@ -10,7 +10,7 @@ Save to /home/pi/RetroPie/roms/intellivision.
 
 The .kbd files here were created based on my interpretation as to how best control each game using a modern controller. They were built for an Xbox 360 controller but can be easily modified to accomodate other similiar controllers. Many games can be mapped to controllers with fewer buttons, but there are a number that will require signficant modification to the .kbd files to do so. Most mappings are fairly well documented, so if you're using other controllers or are not so sure about my approach, then please feel free to change to your liking!
 
-Note that several keyboard hack files also add funtionality not normally present when using the original hardware.  Specifically:
+Note that several keyboard hack files also add functionality not normally present when using the original hardware.  Specifically:
   * *The ability to run and shoot simultaneously.*  Supported games include:  AD&D Cloudy Mountain, Microsurgeon, Ms.   Nightstalker, Nightstalker, TRON Deadly Discs, TRON Deadly Dogs.
   * *True four controller support for four player games that normally require players to share two controllers.*  Supported games include: Beamrider, Bowling, Golf, Mountain Madness Super Pro Skiing, Skiing.
   * *Single controller support for games normally requiring multiple controllers for single player play.*  Supported games includes: Dracula (control Dracula with left analog and control Zombie with right analog).
