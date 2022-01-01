@@ -30,7 +30,7 @@ Save to `/home/pi/RetroPie/roms/intellivision`. Each launch script includes run 
 ## Runcommand Options (emulators.cfg)
 
 ###### Required
-Add individual lines to `/opt/retropie/configs/all/emulators.cfg` from this file as needed, or manually add using the [Runcommand Launch Menu](https://github.com/RetroPie/RetroPie-Setup/wiki/runcommand) for each game.
+Add individual lines to `/opt/retropie/configs/all/emulators.cfg` from this file as needed, or manually add using the [Runcommand Launch Menu](https://retropie.org.uk/docs/Runcommand/) for each game.
 
 Each game has been assigned to a specific launch script (.sh) based on on my testing with an Xbox 360 Controller. The goal was to map the Intellivision 16-button inputs in a way that made sense with modern controllers, present jzIntv with the appropriate input parameters, and allow it to capture analog joystick movements in the cleanest fashion by reducing dead-zone related drift.
 
