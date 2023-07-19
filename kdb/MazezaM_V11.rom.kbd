@@ -1,0 +1,149 @@
+; Location: /home/pi/RetroPie/roms/intellivision
+; -----------------------------------------------------------------------------------------
+MAP 0      ; keymap 0 (default keymap)
+; -----------------------------------------------------------------------------------------
+; JS0_BTN_00 / JS1_BTN_00 **Left Joystick 1 & 2
+; JS0b_BTN_00 / JS1b_BTN_00 **Right Joystick 1 & 2
+; PD0L / PD0R **Controller 1 & 2
+; PD0L_A_T **Top Side Buttons
+; PD0L_A_L **Left Lower Button
+; PD0L_A_R **Right Lower Button
+; PD0L_KP0-KP9 **Number Pad 0-9
+; PD0L_KPC **Clear
+; PD0L_KPE **Enter
+; Others: QUIT, PAUSE, RESET
+; PD0L_J_(N, NNE, NE, ENE, E, ESE, SE, SSE, S, SSW, SW, WSW, W, WNW, NW, NNW)
+
+; ***** Joystick #0 - Left Controller *****
+; ** Side Buttons and Numeric Keypad **
+JS0_BTN_00 PD0L_A_R ; **Select/Navigate Forward
+JS0_BTN_01 NA
+JS0_BTN_02 PD0L_A_L ; **Reset/Abort/Navigate Backwards
+JS0_BTN_03 PD0L_A_T ; **Pause/Info
+JS0_BTN_04 NA
+JS0_BTN_05 NA
+JS0_BTN_06 NA
+JS0_BTN_07 NA
+JS0_BTN_08 NA
+JS0_BTN_09 PAUSE
+JS0_BTN_10 PSH3
+JS0_BTN_11 PD0L_KPC ; **Clear
+JS0_BTN_12 PD0L_KPE ; **Enter
+JS0_BTN_13 NA
+JS0_BTN_14 NA
+JS0_BTN_15 NA
+JS0_BTN_16 NA
+JS0_HAT0_N PD0L_KP2 ; **Move Child Up
+JS0_HAT0_NE NA
+JS0_HAT0_E PD0L_KP6 ; **Move Child Right
+JS0_HAT0_SE NA
+JS0_HAT0_S PD0L_KP8 ; **Move Child Down
+JS0_HAT0_SW NA
+JS0_HAT0_W PD0L_KP4 ; **Move Child Left
+JS0_HAT0_NW NA
+; ** Direction Disc *
+JS0_N      PD0L_J_N
+JS0_NNE    PD0L_J_NNE
+JS0_NE     PD0L_J_NE
+JS0_ENE    PD0L_J_ENE
+JS0_E      PD0L_J_E
+JS0_ESE    PD0L_J_ESE
+JS0_SE     PD0L_J_SE
+JS0_SSE    PD0L_J_SSE
+JS0_S      PD0L_J_S
+JS0_SSW    PD0L_J_SSW
+JS0_SW     PD0L_J_SW
+JS0_WSW    PD0L_J_WSW
+JS0_W      PD0L_J_W
+JS0_WNW    PD0L_J_WNW
+JS0_NW     PD0L_J_NW
+JS0_NNW    PD0L_J_NNW
+
+; ***** Joystick #1 - Left Controller *****
+; ** Side Buttons and Numeric Keypad **
+JS1_BTN_00 PD0R_A_R ; **Select/Navigate Forward
+JS1_BTN_01 NA
+JS1_BTN_02 PD0R_A_L ; **Reset/Abort/Navigate Backwards
+JS1_BTN_03 PD0R_A_T ; **Pause/Info
+JS1_BTN_04 NA
+JS1_BTN_05 NA
+JS1_BTN_06 NA
+JS1_BTN_07 NA
+JS1_BTN_08 NA
+JS1_BTN_09 PAUSE
+JS1_BTN_10 PSH3
+JS1_BTN_11 PD0R_KPC ; **Clear
+JS1_BTN_12 PD0R_KPE ; **Enter
+JS1_BTN_13 NA
+JS1_BTN_14 NA
+JS1_BTN_15 NA
+JS1_BTN_16 NA
+JS1_HAT0_N PD0R_KP2 ; **Move Child Up
+JS1_HAT0_NE NA
+JS1_HAT0_E PD0R_KP6 ; **Move Child Right
+JS1_HAT0_SE NA
+JS1_HAT0_S PD0R_KP8 ; **Move Child Down
+JS1_HAT0_SW NA
+JS1_HAT0_W PD0R_KP4 ; **Move Child Left
+JS1_HAT0_NW NA
+; ** Direction Disc *
+JS1_N      PD0R_J_N
+JS1_NNE    PD0R_J_NNE
+JS1_NE     PD0R_J_NE
+JS1_ENE    PD0R_J_ENE
+JS1_E      PD0R_J_E
+JS1_ESE    PD0R_J_ESE
+JS1_SE     PD0R_J_SE
+JS1_SSE    PD0R_J_SSE
+JS1_S      PD0R_J_S
+JS1_SSW    PD0R_J_SSW
+JS1_SW     PD0R_J_SW
+JS1_WSW    PD0R_J_WSW
+JS1_W      PD0R_J_W
+JS1_WNW    PD0R_J_WNW
+JS1_NW     PD0R_J_NW
+JS1_NNW    PD0R_J_NNW
+
+; -----------------------------------------------------------------------------------------
+MAP 3      ; keymap 3 (hotkey keymap)
+; -----------------------------------------------------------------------------------------
+
+; ***** Joystick #0 - Left Controller *****
+; ** Side Buttons and Numeric Keypad **
+JS0_BTN_00 NA
+JS0_BTN_01 NA
+JS0_BTN_02 NA
+JS0_BTN_03 SHOT
+JS0_BTN_04 NA
+JS0_BTN_05 QUIT
+JS0_BTN_06 NA
+JS0_BTN_07 NA
+JS0_BTN_08 RESET
+JS0_BTN_09 PAUSE
+JS0_BTN_10 PSH3
+JS0_BTN_11 NA
+JS0_BTN_12 NA
+JS0_HAT0_W NA
+JS0_HAT0_E NA
+JS0_HAT0_N NA
+JS0_HAT0_S NA
+
+; ***** Joystick #1 - Right Controller *****
+; ** Side Buttons and Numeric Keypad **
+JS1_BTN_00 NA
+JS1_BTN_01 NA
+JS1_BTN_02 NA
+JS1_BTN_03 SHOT
+JS1_BTN_04 NA
+JS1_BTN_05 QUIT
+JS1_BTN_06 NA
+JS1_BTN_07 NA
+JS1_BTN_08 RESET
+JS1_BTN_09 PAUSE
+JS1_BTN_10 PSH3
+JS1_BTN_11 NA
+JS1_BTN_12 NA
+JS1_HAT0_W NA
+JS1_HAT0_E NA
+JS1_HAT0_N NA
+JS1_HAT0_S NA
