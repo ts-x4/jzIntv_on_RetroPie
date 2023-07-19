@@ -62,9 +62,9 @@ The options here are based on my personal preference plus alternatives sourced f
 
 **Original Games:**  AD&D Cloudy Mountain ("ADVNTURE"), AD&D Treasure of Tarmin ("Minotaur"), Astrosmash, Atlantis, Beauty and the Beast, Beamrider, Bump 'N' Jump, Burgertime, Demon Attack, Dig Dug, Diner, Lady Bug, Las Vegas Poker & Blackjack, Lock 'N' Chase, Loco-Motion, Microsurgeon, Mind Strike, Mountain Madness Super Pro Skiing ("SKIING2"), Mouse Trap, Night Stalker ("STALKER"), Pinball, Qbert, Reversi, River Raid, Shark! Shark! ("SHARK"), Sharp Shot, Snafu, Space Battle, Stampede, Swords and Serpents, Thin Ice, Thunder Castle, Tower of Doom, TRON Deadly Discs, Utopia, Vectron, World Championship Baseball, Worm Whomper.
 
-**Free Homebrew Games:**  2048, Christmas Carol, Dwarven Mine, Flapee Bird, Goatnom, iStar, Laser Sharks ("sharks"), Maria, MazezaM, Moon Blast ("laser"), Shape Escape, Space Patrol, Stonix, Ultimate Pong, Upmonsters
+**Free Homebrew Games:**  2048, Christmas Carol, Dwarven Mine, Flapee Bird, Goatnom, iStar, Laser Sharks ("sharks"), Maria, MazezaM, Shape Escape, Space Patrol, Stonix, Upmonsters
 
-**Paid Homebrew Games:**  Aardvark, Battlestar Galactica Space Battle, Burgertime Super Chef, D2K, Donkey Kong Junior, Gooninuff, Intellivania, Jumpking Junior, Ms. Pac-Man, Ms. Night Stalker, Mystic Castle, Same Game & Robots, Super Pro Baseball, Super Pro Tennis
+**Paid Homebrew Games:**  Aardvark, Antarctic Adventure, Battlestar Galactica Space Battle, Burgertime Super Chef, D2K, Donkey Kong Junior, ECS Controller Bundle, Gooninuff, Intellivania, Jumpking Junior, King of the Mountain, Ms. Pac-Man, Ms. Night Stalker, Mystic Castle, Same Game & Robots, Super Pro Baseball, Super Pro Tennis, Ultimate Pong
 
 ## Other Notes
 
