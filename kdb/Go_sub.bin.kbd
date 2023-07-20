@@ -16,30 +16,30 @@ MAP 0      ; keymap 0 (default keymap)
 
 ; ***** Joystick #0 - Left Controller *****
 ; ** Side Buttons and Numeric Keypad **
-JS0_BTN_00 PD0L_A_L ; **Attack
-JS0_BTN_01 PD0L_KP6 ; **Swap Pack
-JS0_BTN_02 PD0L_KP4 ; **Open
-JS0_BTN_03 PD0L_KP3 ; **Rotate Pack
-JS0_BTN_04 PD0L_A_T ; **Inventory
-JS0_BTN_05 PD0L_KP9 ; **Use Ladder
-JS0_BTN_06 PD0L_KP1 ; **Pick Up/Drop
-JS0_BTN_07 PD0L_KP0 ; **Retreat
-JS0_BTN_08 PD0L_KP8 ; **Rest
+JS0_BTN_00 PD0L_A_T ; **Fire
+JS0_BTN_01 PD0L_KP7 ; **No
+JS0_BTN_02 PD0L_KP1 ; **New Game
+JS0_BTN_03 NA
+JS0_BTN_04 PD0L_KP9 ; **Reset Progress
+JS0_BTN_05 NA
+JS0_BTN_06 PD0L_A_T ; **Fire
+JS0_BTN_07 PD0L_A_T ; **Fire
+JS0_BTN_08 NA
 JS0_BTN_09 PAUSE
 JS0_BTN_10 PSH3
-JS0_BTN_11 PD0L_KPC ; **Glance Left
-JS0_BTN_12 PD0L_KPE ; **Glance Right
+JS0_BTN_11 NA
+JS0_BTN_12 PD0L_KPE ; **Enter
 JS0_BTN_13 NA
 JS0_BTN_14 NA
 JS0_BTN_15 NA
 JS0_BTN_16 NA
-JS0_HAT0_N  PD0L_A_T ; **Inventory
+JS0_HAT0_N PD0L_KP2 ; **Yes
 JS0_HAT0_NE NA
-JS0_HAT0_E  PD0L_KP2 ; **Swap Hands
+JS0_HAT0_E PD0L_KP3 ; **Continue Game
 JS0_HAT0_SE NA
-JS0_HAT0_S  PD0L_KP7 ; **?
+JS0_HAT0_S NA
 JS0_HAT0_SW NA
-JS0_HAT0_W  PD0L_KP5 ; **Use
+JS0_HAT0_W PD0L_KP1 ; **New Game
 JS0_HAT0_NW NA
 ; ** Direction Disc *
 JS0_N      PD0L_J_N
@@ -59,34 +59,34 @@ JS0_WNW    PD0L_J_WNW
 JS0_NW     PD0L_J_NW
 JS0_NNW    PD0L_J_NNW
 
-; ***** Joystick #1 - Right Controller *****
+; ***** Joystick #1 - Left Controller *****
 ; ** Side Buttons and Numeric Keypad **
-JS1_BTN_00 PD0R_A_L ; **Attack
-JS1_BTN_01 PD0R_KP6 ; **Swap Pack
-JS1_BTN_02 PD0R_KP4 ; **Open
-JS1_BTN_03 PD0R_KP3 ; **Rotate Pack
-JS1_BTN_04 PD0R_A_T ; **Inventory
-JS1_BTN_05 PD0R_KP9 ; **Use Ladder
-JS1_BTN_06 PD0R_KP1 ; **Pick Up/Drop
-JS1_BTN_07 PD0R_KP0 ; **Retreat
-JS1_BTN_08 PD0R_KP8 ; **Rest
+JS1_BTN_00 PD0R_A_T ; **Fire
+JS1_BTN_01 PD0R_KP7 ; **No
+JS1_BTN_02 PD0R_KP1 ; **New Game
+JS1_BTN_03 NA
+JS1_BTN_04 PD0R_KP9 ; **Reset Progress
+JS1_BTN_05 NA
+JS1_BTN_06 PD0R_A_T ; **Fire
+JS1_BTN_07 PD0R_A_T ; **Fire
+JS1_BTN_08 NA
 JS1_BTN_09 PAUSE
 JS1_BTN_10 PSH3
-JS1_BTN_11 PD0R_KPC ; **Glance Left
-JS1_BTN_12 PD0R_KPE ; **Glance Right
+JS1_BTN_11 NA
+JS1_BTN_12 PD0R_KPE ; **Enter
 JS1_BTN_13 NA
 JS1_BTN_14 NA
 JS1_BTN_15 NA
 JS1_BTN_16 NA
-JS1_HAT0_N  PD0R_A_T ; **Inventory
+JS1_HAT0_N PD0R_KP2 ; **Yes
 JS1_HAT0_NE NA
-JS1_HAT0_E  PD0R_KP2 ; **Swap Hands
+JS1_HAT0_E PD0R_KP3 ; **Continue Game
 JS1_HAT0_SE NA
-JS1_HAT0_S  PD0R_KP7 ; **?
+JS1_HAT0_S NA
 JS1_HAT0_SW NA
-JS1_HAT0_W  PD0R_KP5 ; **Use
+JS1_HAT0_W PD0R_KP1 ; **New Game
 JS1_HAT0_NW NA
-; ** Direction Disc **
+; ** Direction Disc *
 JS1_N      PD0R_J_N
 JS1_NNE    PD0R_J_NNE
 JS1_NE     PD0R_J_NE
