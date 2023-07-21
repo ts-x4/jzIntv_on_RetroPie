@@ -16,14 +16,14 @@ MAP 0      ; keymap 0 (default keymap)
 
 ; ***** Joystick #0 - Left Controller *****
 ; ** Side Buttons and Numeric Keypad **
-JS0_BTN_00 PD0L_A_T ; **Fire
+JS0_BTN_00 PD0R_A_T ; **Fire
 JS0_BTN_01 PD0L_KP1 ; **Auto-Fire
 JS0_BTN_02 PD0L_KP3 ; **Panic
 JS0_BTN_03 PD0L_KP2 ; **Single Shot
 JS0_BTN_04 NA
 JS0_BTN_05 NA
 JS0_BTN_06 PD0L_KP3 ; **Panic
-JS0_BTN_07 PD0L_A_T ; **Fire
+JS0_BTN_07 PD0R_A_T ; **Fire
 JS0_BTN_08 NA
 JS0_BTN_09 PAUSE
 JS0_BTN_10 PSH3
@@ -63,14 +63,14 @@ JS0_NNW    PD0L_J_NNW
 
 ; ***** Joystick #1 - Left Controller *****
 ; ** Side Buttons and Numeric Keypad **
-JS1_BTN_00 PD0R_A_T ; **Fire
+JS1_BTN_00 PD0L_A_T ; **Fire
 JS1_BTN_01 PD0R_KP1 ; **Auto-Fire
 JS1_BTN_02 PD0R_KP3 ; **Panic
 JS1_BTN_03 PD0R_KP2 ; **Single Shot
 JS1_BTN_04 NA
 JS1_BTN_05 NA
 JS1_BTN_06 PD0R_KP3 ; **Panic
-JS1_BTN_07 PD0R_A_T ; **Fire
+JS1_BTN_07 PD0L_A_T ; **Fire
 JS1_BTN_08 NA
 JS1_BTN_09 PAUSE
 JS1_BTN_10 PSH3
