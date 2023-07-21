@@ -15,7 +15,7 @@ Note that several keyboard hack files also add functionality not normally presen
   * *True four controller support for four player games that normally require players to share two controllers.*  Supported games include: Beamrider, Bowling, Golf, Mountain Madness Super Pro Skiing, Skiing.
   * *Single controller support for games normally requiring multiple controllers for single player play.*  Supported games includes: Dracula (control Dracula with left analog and control Zombie with right analog).
 
-Also note that these .kbd files create RetroPie equivalent "hotkeys" in jzIntv. My hotkey setup differs from the standard RetroPie mappings (uses the "Guide" button as the hotkey, "Back" as select, and "RB" as exit). To bring hotkeys here in sync with the standard RetroPie mappings, refer to the "Creating RetroArch Hotkey Equivalents" section under "Advanced Controller Mapping" [here](https://github.com/RetroPie/RetroPie-Setup/wiki/Mapping-a-Controller-for-Intellivision).
+Also note that these .kbd files create RetroPie equivalent "hotkeys" in jzIntv. My hotkey setup differs from the standard RetroPie mappings (uses the "Guide" button as the hotkey, "Back" as select, and "RB" as exit). To bring hotkeys here in sync with the standard RetroPie mappings, refer to the "Creating RetroArch Hotkey Equivalents" section under "Advanced Controller Mapping" [here](https://retropie.org.uk/docs/Mapping-a-Controller-for-Intellivision/). Note that using "AVI" is the best choice if you want to record video.
 
 ## Configuration Files (.cfg)
 
