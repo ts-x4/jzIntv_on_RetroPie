@@ -64,7 +64,7 @@ The options here are based on my personal preference plus alternatives sourced f
 
 **Free Homebrew Games:**  2048, Christmas Carol, Dwarven Mine, Flapee Bird, Goatnom, iStar, Laser Sharks ("sharks"), Maria, MazezaM, Shape Escape, Space Patrol, Stonix, Upmonsters
 
-**Paid Homebrew Games:**  Aardvark, Antarctic Adventure, Battlestar Galactica Space Battle, Burgertime Super Chef, D2K, Donkey Kong Junior, ECS Controller Bundle, Gooninuff, Intellivania, Jumpking Junior, King of the Mountain, Ms. Pac-Man, Ms. Night Stalker, Mystic Castle, Same Game & Robots, Super Pro Baseball, Super Pro Tennis, Ultimate Pong
+**Paid Homebrew Games:**  Aardvark, Antarctic Adventure, Battlestar Galactica Space Battle, Burgertime Super Chef, D2K, Donkey Kong Junior, ECS Controller Bundle, Gooninuff, Intellivania, Jumpking Junior, King of the Mountain, Miner 2049er, Ms. Pac-Man, Ms. Night Stalker, Mystic Castle, Same Game & Robots, Super Pro Baseball, Super Pro Tennis, Ultimate Pong
 
 ## Other Notes
 
